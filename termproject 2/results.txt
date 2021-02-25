@@ -1,0 +1,12 @@
+1. Who is in the group: 
+    Kaylie - pek518, Maria Paula - ngl772
+2. Is this project complete?
+    Almost, the only problem is that for any of the string sorts the array size can only go up to 30,000 maximum. Otherwise
+    there will be a segfault.
+3. Which sort would you use for integer and 4. Which sort would you use for string?
+    We both agree that for integer it would be better to use radix/bucket sort, since you will ever only have 9 buckets
+    maximum. Whereas, for strings you would need 26-52 buckets depending on whether uppercase letters are being taken into
+    account, so it's not as easy to implement even though it is the fastest.
+    So for strings we would choose heap sort instead of radix/bucket sort. Since it's second fastest.
+4. We did not do any of the bonus for integers
+5. We did not do any of the bonus for strings
